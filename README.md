@@ -9,3 +9,5 @@ The final implementation operates within approximately **90–94% RAM usage**, w
 With additional time, the SPI communication issues would be fully diagnosed to allow support for a larger word set without exceeding memory limits. Further cleanup of the codebase would also be performed, as some testing logic and inputs remains from earlier development stages.
 
 Overall, this project served as a practical application of embedded systems concepts, particularly **memory management**, hardware limitations, and modular design, while recreating the core mechanics of the *Wordle* game.
+
+Demo Video: https://youtube.com/shorts/HRoBF8yrvac?feature=share 
